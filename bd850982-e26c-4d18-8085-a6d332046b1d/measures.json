@@ -6,15 +6,15 @@
                 "qType": "measure"
             },
             "qMeasure": {
-                "qLabel": "Master measure",
-                "qDef": "Sum(Expression3)",
+                "qLabel": "Master measure NEW",
+                "qDef": "Sum(Expression1)",
                 "qGrouping": "N",
                 "qExpressions": [],
                 "qActiveExpression": 0,
                 "coloring": {}
             },
             "qMetaDef": {
-                "title": "Master measure",
+                "title": "Master measure NEW",
                 "description": "",
                 "tags": [
                     "test"
