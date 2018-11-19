@@ -1,0 +1,57 @@
+{
+    "sheets": [
+        {
+            "qProperty": {
+                "qInfo": {
+                    "qId": "70fab2ea-4c81-49b5-a1a4-34341ab59ad8",
+                    "qType": "sheet"
+                },
+                "qMetaDef": {
+                    "title": "My new sheet",
+                    "description": ""
+                },
+                "rank": 0,
+                "thumbnail": {
+                    "qStaticContentUrlDef": {}
+                },
+                "columns": 24,
+                "rows": 12,
+                "cells": [
+                    {
+                        "name": "mxCZGJ",
+                        "type": "table",
+                        "col": 0,
+                        "row": 2,
+                        "colspan": 12,
+                        "rowspan": 10,
+                        "bounds": {
+                            "y": 16.666666666666664,
+                            "x": 0,
+                            "width": 50,
+                            "height": 83.33333333333334
+                        }
+                    }
+                ],
+                "qChildListDef": {
+                    "qData": {
+                        "title": "/title"
+                    }
+                },
+                "gridResolution": "small"
+            },
+            "qChildren": [
+                {
+                    "qProperty": {
+                        "qInfo": {
+                            "qId": "mxCZGJ",
+                            "qType": "table"
+                        },
+                        "qExtendsId": "fa616199-ec24-4310-8590-a93f10ca5af2",
+                        "qMetaDef": {}
+                    },
+                    "qChildren": []
+                }
+            ]
+        }
+    ]
+}

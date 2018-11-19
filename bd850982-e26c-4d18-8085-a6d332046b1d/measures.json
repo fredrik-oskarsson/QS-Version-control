@@ -1,0 +1,25 @@
+{
+    "measures": [
+        {
+            "qInfo": {
+                "qId": "cXarb",
+                "qType": "measure"
+            },
+            "qMeasure": {
+                "qLabel": "Master measure",
+                "qDef": "Sum(Expression3)",
+                "qGrouping": "N",
+                "qExpressions": [],
+                "qActiveExpression": 0,
+                "coloring": {}
+            },
+            "qMetaDef": {
+                "title": "Master measure",
+                "description": "",
+                "tags": [
+                    "test"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "dimensions": [
+        {
+            "qInfo": {
+                "qId": "jGdPm",
+                "qType": "dimension"
+            },
+            "qDim": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                    "Dim3"
+                ],
+                "qFieldLabels": [
+                    "Master dimension"
+                ],
+                "title": "Master dimension",
+                "coloring": {
+                    "changeHash": "0.8344324259129006",
+                    "colorMapRef": "jGdPm"
+                }
+            },
+            "qMetaDef": {
+                "title": "Master dimension",
+                "description": "",
+                "tags": []
+            }
+        }
+    ]
+}
