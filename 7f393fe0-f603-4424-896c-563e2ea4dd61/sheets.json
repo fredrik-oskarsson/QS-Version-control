@@ -1361,20 +1361,6 @@
                                     }
                                 }
                             ],
-<<<<<<< HEAD
-                            "qInterColumnSortOrder": [
-                                0
-                            ],
-                            "qSuppressMissing": true,
-                            "qInitialDataFetch": [
-                                {
-                                    "qLeft": 0,
-                                    "qTop": 0,
-                                    "qWidth": 500,
-                                    "qHeight": 10
-                                }
-                            ],
-=======
                             "qMeasures": [],
                             "qInterColumnSortOrder": [
                                 0,
@@ -1388,7 +1374,6 @@
                             ],
                             "qSuppressMissing": true,
                             "qInitialDataFetch": [],
->>>>>>> Dashboard+Details
                             "qReductionMode": "N",
                             "qMode": "S",
                             "qPseudoDimPos": -1,
@@ -1400,9 +1385,6 @@
                                 "qCond": {},
                                 "qMsg": {}
                             },
-<<<<<<< HEAD
-                            "qColumnOrder": [],
-=======
                             "qColumnOrder": [
                                 0,
                                 1,
@@ -1433,7 +1415,6 @@
                                 -1,
                                 -1
                             ],
->>>>>>> Dashboard+Details
                             "qLayoutExclude": {
                                 "qHyperCubeDef": {
                                     "qDimensions": [],
@@ -1455,24 +1436,11 @@
                                 }
                             }
                         },
-<<<<<<< HEAD
-                        "showTitles": false,
-=======
                         "showTitles": true,
->>>>>>> Dashboard+Details
                         "title": "",
                         "subtitle": "",
                         "footnote": "",
                         "showDetails": false,
-<<<<<<< HEAD
-                        "showMeasureTitle": true,
-                        "textAlign": "center",
-                        "fontSize": "M",
-                        "useLink": false,
-                        "sheetLink": "",
-                        "openUrlInNewTab": true,
-                        "visualization": "kpi"
-=======
                         "totals": {
                             "show": true,
                             "position": "noTotals",
@@ -1486,7 +1454,6 @@
                             "wrapTextInCells": true
                         },
                         "visualization": "table"
->>>>>>> Dashboard+Details
                     },
                     "qChildren": []
                 }

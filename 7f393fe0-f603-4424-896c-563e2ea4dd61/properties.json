@@ -6,15 +6,9 @@
         "qSavedInProductVersion": "12.212.4",
         "qThumbnail": {},
         "createdDate": "2018-11-20T12:10:18.937Z",
-<<<<<<< HEAD
         "modifiedDate": "2018-11-20T13:17:31.092Z",
         "published": true,
         "publishTime": "2018-11-20T13:17:30.969Z",
-=======
-        "modifiedDate": "2018-11-20T13:47:48.990Z",
-        "published": true,
-        "publishTime": "2018-11-20T13:47:48.872Z",
->>>>>>> Dashboard+Details
         "privileges": [
             "read",
             "update",
