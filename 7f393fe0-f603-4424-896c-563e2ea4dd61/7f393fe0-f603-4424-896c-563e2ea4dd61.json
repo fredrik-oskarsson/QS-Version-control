@@ -1428,6 +1428,7 @@
     "stories": [],
     "masterobjects": [],
     "appprops": [],
+    "fields": [],
     "dataconnections": [
         {
             "qConnection": {
@@ -1848,6 +1849,11 @@
             }
         }
     ],
+    "embeddedmedia": [],
+    "snapshots": [],
+    "bookmarks": [],
+    "dimensions": [],
+    "measures": [],
     "variables": [
         {
             "qInfo": {
@@ -2247,11 +2253,5 @@
             "qIsScriptCreated": true,
             "qIsReserved": true
         }
-    ],
-    "embeddedmedia": [],
-    "dimensions": [],
-    "measures": [],
-    "bookmarks": [],
-    "snapshots": [],
-    "fields": []
+    ]
 }
