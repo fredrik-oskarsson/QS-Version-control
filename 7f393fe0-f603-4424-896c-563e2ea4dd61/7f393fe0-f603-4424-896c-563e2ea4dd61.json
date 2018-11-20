@@ -6,15 +6,9 @@
         "qSavedInProductVersion": "12.212.4",
         "qThumbnail": {},
         "createdDate": "2018-11-20T12:10:18.937Z",
-<<<<<<< HEAD
-        "modifiedDate": "2018-11-20T13:14:47.113Z",
-        "published": true,
-        "publishTime": "2018-11-20T13:14:47.003Z",
-=======
         "modifiedDate": "2018-11-20T13:17:31.092Z",
         "published": true,
         "publishTime": "2018-11-20T13:17:30.969Z",
->>>>>>> newBranch
         "privileges": [
             "read",
             "update",
@@ -83,8 +77,6 @@
         {
             "qProperty": {
                 "qInfo": {
-<<<<<<< HEAD
-=======
                     "qId": "439d3b9a-e8a0-4e99-94a7-f5d34598a3ff",
                     "qType": "sheet"
                 },
@@ -364,7 +356,6 @@
         {
             "qProperty": {
                 "qInfo": {
->>>>>>> newBranch
                     "qId": "72d08945-a8c2-4acf-a622-dad7d59856e9",
                     "qType": "sheet"
                 },
@@ -406,8 +397,6 @@
                             "y": 11.11111111111111,
                             "height": 88.88888888888889
                         }
-<<<<<<< HEAD
-=======
                     },
                     {
                         "name": "PYsWWkf",
@@ -436,7 +425,6 @@
                             "width": 22.22222222222222,
                             "height": 11.11111111111111
                         }
->>>>>>> newBranch
                     }
                 ],
                 "qChildListDef": {
@@ -459,9 +447,6 @@
                             "qMeasures": [
                                 {
                                     "qDef": {
-<<<<<<< HEAD
-                                        "qLabel": "Antal elever",
-=======
                                         "qLabel": "Antal elever",
                                         "qTags": [],
                                         "qGrouping": "N",
@@ -634,7 +619,6 @@
                             "qMeasures": [
                                 {
                                     "qDef": {
->>>>>>> newBranch
                                         "qTags": [],
                                         "qGrouping": "N",
                                         "qDef": "Sum([Antal elever])",
@@ -647,32 +631,8 @@
                                         "qActiveExpression": 0,
                                         "qExpressions": [],
                                         "autoSort": true,
-<<<<<<< HEAD
-                                        "cId": "njSrvm",
-                                        "numFormatFromTemplate": true,
-                                        "measureAxis": {
-                                            "min": 0,
-                                            "max": 100
-                                        },
-                                        "conditionalColoring": {
-                                            "useConditionalColoring": false,
-                                            "singleColor": 3,
-                                            "paletteSingleColor": {
-                                                "index": 6
-                                            },
-                                            "segments": {
-                                                "limits": [],
-                                                "paletteColors": [
-                                                    {
-                                                        "index": 6
-                                                    }
-                                                ]
-                                            }
-                                        }
-=======
                                         "cId": "ARmjJg",
                                         "numFormatFromTemplate": true
->>>>>>> newBranch
                                     },
                                     "qSortBy": {
                                         "qSortByNumeric": -1,
@@ -689,35 +649,23 @@
                                 }
                             ],
                             "qInterColumnSortOrder": [
-<<<<<<< HEAD
-                                0
-=======
                                 0,
                                 1
->>>>>>> newBranch
                             ],
                             "qSuppressMissing": true,
                             "qInitialDataFetch": [
                                 {
                                     "qLeft": 0,
                                     "qTop": 0,
-<<<<<<< HEAD
-                                    "qWidth": 500,
-                                    "qHeight": 10
-=======
                                     "qWidth": 17,
                                     "qHeight": 500
->>>>>>> newBranch
                                 }
                             ],
                             "qReductionMode": "N",
                             "qMode": "S",
                             "qPseudoDimPos": -1,
                             "qNoOfLeftDims": -1,
-<<<<<<< HEAD
-=======
                             "qAlwaysFullyExpanded": true,
->>>>>>> newBranch
                             "qMaxStackedCells": 5000,
                             "qCalcCond": {},
                             "qTitle": {},
@@ -747,27 +695,14 @@
                                 }
                             }
                         },
-<<<<<<< HEAD
-                        "showTitles": false,
-=======
                         "refLine": {
                             "refLines": []
                         },
                         "showTitles": true,
->>>>>>> newBranch
                         "title": "",
                         "subtitle": "",
                         "footnote": "",
                         "showDetails": false,
-<<<<<<< HEAD
-                        "showMeasureTitle": true,
-                        "textAlign": "center",
-                        "fontSize": "M",
-                        "useLink": false,
-                        "sheetLink": "",
-                        "openUrlInNewTab": true,
-                        "visualization": "kpi"
-=======
                         "lineType": "line",
                         "stackedArea": false,
                         "separateStacking": true,
@@ -824,18 +759,13 @@
                             "logarithmic": false
                         },
                         "visualization": "linechart"
->>>>>>> newBranch
                     },
                     "qChildren": []
                 },
                 {
                     "qProperty": {
                         "qInfo": {
-<<<<<<< HEAD
-                            "qId": "JFwjfj",
-=======
                             "qId": "PYsWWkf",
->>>>>>> newBranch
                             "qType": "linechart"
                         },
                         "qMetaDef": {},
@@ -861,11 +791,7 @@
                                         "qNumberPresentations": [],
                                         "qActiveField": 0,
                                         "autoSort": true,
-<<<<<<< HEAD
-                                        "cId": "hKenPK",
-=======
                                         "cId": "JfMc",
->>>>>>> newBranch
                                         "othersLabel": "Others"
                                     },
                                     "qOtherTotalSpec": {
@@ -901,11 +827,7 @@
                                     "qDef": {
                                         "qTags": [],
                                         "qGrouping": "N",
-<<<<<<< HEAD
-                                        "qDef": "Sum([Antal elever])",
-=======
                                         "qDef": "Sum([Antal lärare])",
->>>>>>> newBranch
                                         "qNumFormat": {
                                             "qType": "U",
                                             "qnDec": 10,
@@ -915,11 +837,7 @@
                                         "qActiveExpression": 0,
                                         "qExpressions": [],
                                         "autoSort": true,
-<<<<<<< HEAD
-                                        "cId": "ARmjJg",
-=======
                                         "cId": "zMmXdqu",
->>>>>>> newBranch
                                         "numFormatFromTemplate": true
                                     },
                                     "qSortBy": {
@@ -1049,8 +967,6 @@
                         "visualization": "linechart"
                     },
                     "qChildren": []
-<<<<<<< HEAD
-=======
                 },
                 {
                     "qProperty": {
@@ -1172,7 +1088,6 @@
                         "visualization": "kpi"
                     },
                     "qChildren": []
->>>>>>> newBranch
                 }
             ]
         },
@@ -1207,12 +1122,8 @@
     "masterobjects": [],
     "appprops": [],
     "dimensions": [],
-<<<<<<< HEAD
-    "bookmarks": [],
-=======
     "snapshots": [],
     "measures": [],
->>>>>>> newBranch
     "dataconnections": [
         {
             "qConnection": {
@@ -2035,10 +1946,5 @@
         }
     ],
     "embeddedmedia": [],
-<<<<<<< HEAD
-    "measures": [],
-    "snapshots": []
-=======
     "bookmarks": []
->>>>>>> newBranch
 }
