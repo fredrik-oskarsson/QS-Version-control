@@ -8,12 +8,21 @@ LOAD
     "Antal elever",
     "Antal lärare",
     "Antal elever" + "Antal lärare" as "Totalt Personer",
-    "Antal lärare"/"Antal elever" as "Antal lärare per elev"
+    "Antal lärare"/"Antal elever" as "Antal lärare per elev",
+    "Antal elever"/"Antal lärare" as "Antal elever per lärare"
 FROM [lib://EI datakälla (azuread_fredrikoskarsson)/Data\Skoldata\Skoldata.xlsx]
 (ooxml, embedded labels, table is Blad1);
 
+ProductSection:
+LOAD
+    CategoryID,
+    "Section"
+FROM [lib://EI datakälla (azuread_fredrikoskarsson)/Data\Online Sales Statistics\ProductSection.xlsx]
+(ooxml, embedded labels, table is Sheet1);
+
 ParcelHistory:
 LOAD
+	"Parcel ID" as %ParcelID,
     "Parcel ID",
     "Product number",
     "Store Code",
