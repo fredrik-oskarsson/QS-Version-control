@@ -1090,40 +1090,12 @@
                     "qChildren": []
                 }
             ]
-        },
-        {
-            "qProperty": {
-                "qInfo": {
-                    "qId": "4d8545e5-3b67-4033-8be6-4e3e0ae028e9",
-                    "qType": "sheet"
-                },
-                "qMetaDef": {
-                    "title": "My new sheet",
-                    "description": ""
-                },
-                "rank": 0,
-                "thumbnail": {
-                    "qStaticContentUrlDef": {}
-                },
-                "columns": 24,
-                "rows": 12,
-                "cells": [],
-                "qChildListDef": {
-                    "qData": {
-                        "title": "/title"
-                    }
-                },
-                "gridResolution": "small"
-            },
-            "qChildren": []
         }
     ],
     "stories": [],
     "masterobjects": [],
     "appprops": [],
-    "dimensions": [],
-    "snapshots": [],
-    "measures": [],
+    "fields": [],
     "dataconnections": [
         {
             "qConnection": {
@@ -1544,7 +1516,11 @@
             }
         }
     ],
-    "fields": [],
+    "embeddedmedia": [],
+    "snapshots": [],
+    "bookmarks": [],
+    "dimensions": [],
+    "measures": [],
     "variables": [
         {
             "qInfo": {
@@ -1944,7 +1920,5 @@
             "qIsScriptCreated": true,
             "qIsReserved": true
         }
-    ],
-    "embeddedmedia": [],
-    "bookmarks": []
+    ]
 }
