@@ -1,0 +1,402 @@
+{
+    "variables": [
+        {
+            "qInfo": {
+                "qId": "38f10258-14e7-4618-b1b8-631a980a4e32",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "ErrorMode",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "1",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "4f03148d-3f1d-4bf5-9fad-8b8da7a5b09c",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "StripComments",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "1",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "b22d92df-45bd-498c-84c9-e8cfc7e35bfa",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "OpenUrlTimeout",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "86400",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "755e3553-b940-4de9-850c-82eeb2d09cd5",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "ScriptError",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "71576079-537d-458e-8ca2-e6729a4acbda",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "ScriptErrorCount",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "0",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "b31a762a-428a-4692-908d-4f7dceaa0dfa",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "ScriptErrorList",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "175d4e8c-1af5-4d94-981d-17db680b66f6",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "ThousandSep",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": ",",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "3a31f0f0-1bb8-4f53-bf8f-2e6ba71d64ab",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "DecimalSep",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": ".",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "273296e3-c1ee-4fee-8328-ac25b1c0e02b",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "MoneyThousandSep",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": ",",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "f02f619b-196e-42b6-983b-b7c903324010",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "MoneyDecimalSep",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": ".",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "4c7eab09-e86e-4d2a-a96d-8b99d0325fec",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "MoneyFormat",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "$#,##0.00;-$#,##0.00",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "b3faaa31-b75a-4296-89bd-bd1971cdf63e",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "TimeFormat",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "h:mm:ss TT",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "ea542af1-fc18-4c43-93e6-e93e9c5542a3",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "DateFormat",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "M/D/YYYY",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "dbddfdeb-e07c-4649-b05a-3c7e621faab0",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "TimestampFormat",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "M/D/YYYY h:mm:ss[.fff] TT",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "72379ef4-f0fe-4452-9743-aa91a68f7d5b",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "FirstWeekDay",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "6",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "f8fa92df-3e91-485d-956c-6ecbf21a83d3",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "BrokenWeeks",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "1",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "e7df2b32-a5e9-4811-9097-0faa20704bd6",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "ReferenceDay",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "0",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "beaa9732-4b04-46f9-8aee-51a65279e8d3",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "FirstMonthOfYear",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "1",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "e238ddea-22a6-4537-a1be-a2928b6685b9",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "CollationLocale",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "en-US",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "c1f06bf7-1b81-49e9-a16d-1e6ba76fd41e",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "CreateSearchIndexOnReload",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "1",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "bec1a205-9523-4c8d-87b4-e41d0ed9f91d",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "MonthNames",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "fd8ee14b-0fbd-4e40-b4b4-183aefae9eba",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "LongMonthNames",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "January;February;March;April;May;June;July;August;September;October;November;December",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "479ff975-8853-4e6a-a9b7-fb417dc91b77",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "DayNames",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "Mon;Tue;Wed;Thu;Fri;Sat;Sun",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "5fd1c494-d936-484d-9171-b04574c4010b",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "LongDayNames",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        },
+        {
+            "qInfo": {
+                "qId": "93087c43-17be-4341-a3d2-cb8b62f75ebe",
+                "qType": "variable"
+            },
+            "qMetaDef": {},
+            "qName": "NumericalAbbreviation",
+            "qNumberPresentation": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+            },
+            "qDefinition": "3:k;6:M;9:G;12:T;15:P;18:E;21:Z;24:Y;-3:m;-6:μ;-9:n;-12:p;-15:f;-18:a;-21:z;-24:y",
+            "qIsScriptCreated": true,
+            "qIsReserved": true
+        }
+    ]
+}
