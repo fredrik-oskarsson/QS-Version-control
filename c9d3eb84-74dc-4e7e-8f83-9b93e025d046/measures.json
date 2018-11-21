@@ -1,0 +1,42 @@
+{
+    "measures": [
+        {
+            "qInfo": {
+                "qId": "BEXc",
+                "qType": "measure"
+            },
+            "qMeasure": {
+                "qLabel": "Antal elever",
+                "qDef": "Sum([Antal elever])",
+                "qGrouping": "N",
+                "qExpressions": [],
+                "qActiveExpression": 0,
+                "coloring": {}
+            },
+            "qMetaDef": {
+                "title": "Antal elever",
+                "description": "",
+                "tags": []
+            }
+        },
+        {
+            "qInfo": {
+                "qId": "sdm",
+                "qType": "measure"
+            },
+            "qMeasure": {
+                "qLabel": "Antal lärare",
+                "qDef": "Sum([Antal lärare])",
+                "qGrouping": "N",
+                "qExpressions": [],
+                "qActiveExpression": 0,
+                "coloring": {}
+            },
+            "qMetaDef": {
+                "title": "Antal lärare",
+                "description": "",
+                "tags": []
+            }
+        }
+    ]
+}
