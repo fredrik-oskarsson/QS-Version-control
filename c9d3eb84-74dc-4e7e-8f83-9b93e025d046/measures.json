@@ -7,7 +7,11 @@
             },
             "qMeasure": {
                 "qLabel": "Antal elever",
+<<<<<<< HEAD
                 "qDef": "Sum([Antal elever]+[Antal lärare])",
+=======
+                "qDef": "Sum([Antal elever])",
+>>>>>>> StandardApp
                 "qGrouping": "N",
                 "qExpressions": [],
                 "qActiveExpression": 0,

@@ -1711,6 +1711,7 @@
                     "qChildren": []
                 }
             ]
+<<<<<<< HEAD
         },
         {
             "qProperty": {
@@ -2067,6 +2068,8 @@
                     "qChildren": []
                 }
             ]
+=======
+>>>>>>> StandardApp
         }
     ],
     "stories": [],
@@ -2074,7 +2077,10 @@
     "appprops": [],
     "dimensions": [],
     "bookmarks": [],
+<<<<<<< HEAD
     "fields": [],
+=======
+>>>>>>> StandardApp
     "dataconnections": [
         {
             "qConnection": {
@@ -2495,6 +2501,10 @@
             }
         }
     ],
+<<<<<<< HEAD
+=======
+    "fields": [],
+>>>>>>> StandardApp
     "measures": [
         {
             "qInfo": {
@@ -2503,7 +2513,11 @@
             },
             "qMeasure": {
                 "qLabel": "Antal elever",
+<<<<<<< HEAD
                 "qDef": "Sum([Antal elever]+[Antal lärare])",
+=======
+                "qDef": "Sum([Antal elever])",
+>>>>>>> StandardApp
                 "qGrouping": "N",
                 "qExpressions": [],
                 "qActiveExpression": 0,
